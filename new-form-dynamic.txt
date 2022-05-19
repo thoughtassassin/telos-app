@@ -1,0 +1,609 @@
+1. You can apply for
+2. Helpful Tips
+3. Save Time
+4. can add more pages
+5. Texas Health and Human Services Commission HHSC
+6. Notice Your estate might have to pay the state back for services you get To learn more see page 19
+7. undefined
+8. like this
+9. What benefits are you applying for
+10. Medicaid for the Elderly and
+11. Medicare Savings Program
+12. Medicaid BuyIn Program
+13. Your husband or wife
+14. First name
+15. Middle name
+16. 1
+17. 2
+18. 1_2
+19. 2_2
+20. Last name
+21. undefined_2
+22. undefined_3
+23. undefined_4
+24. undefined_5
+25. undefined_6
+26. undefined_7
+27. undefined_8
+28. only if you are applying  for benefits
+29. Birth date
+30. month
+31. month_2
+32. undefined_9
+33. undefined_10
+34. City
+35. undefined_11
+36. undefined_12
+37. State Zip
+38. Home phone
+39. 1_3
+40. 2_3
+41. undefined_13
+42. undefined_14
+43. 1_4
+44. 2_4
+45. City_2
+46. undefined_15
+47. undefined_16
+48. State Zip_2
+49. undefined_17
+50. undefined_18
+51. undefined_19
+52. undefined_20
+53. County
+54. Email
+55. 1_5
+56. 2_5
+57. 1_6
+58. 2_6
+59. Date received
+60. CaseEDG number
+61. You
+62. Spouse
+63. Plan to stay in Texas
+64. No Yes
+65. undefined_21
+66. undefined_22
+67. No Yes_2
+68. undefined_23
+69. undefined_24
+70. Yes No
+71. undefined_25
+72. undefined_26
+73. No Yes_3
+74. undefined_27
+75. undefined_28
+76. Social Security claim number
+77. Social Security claim number_2
+78. Railroad retirement number
+79. Railroad retirement number_2
+80. Gender
+81. Female Male
+82. undefined_29
+83. undefined_30
+84. Male Female
+85. undefined_31
+86. undefined_32
+87. Hispanic or Latino
+88. No Yes_4
+89. undefined_33
+90. undefined_34
+91. No Yes_5
+92. undefined_35
+93. undefined_36
+94. Mark one or more
+95. American Indian or Alaska Native
+96. Asian
+97. Black or AfricanAmerican
+98. Native Hawaiian or Pacific Islander
+99. White
+100. American Indian or Alaska Native_2
+101. Asian_2
+102. Black or AfricanAmerican_2
+103. Native Hawaiian or Pacific Islander_2
+104. White_2
+105. Mark one
+106. Married
+107. Divorced
+108. Widowed
+109. Single
+110. Separated
+111. Married_2
+112. Divorced_2
+113. Widowed_2
+114. Single_2
+115. Separated_2
+116. Yes No If no give facts below
+117. undefined_37
+118. undefined_38
+119. Yes No If no give facts below_2
+120. undefined_39
+121. undefined_40
+122. undefined_41
+123. undefined_42
+124. undefined_43
+125. undefined_44
+126. Yes No_2
+127. Yes No_3
+128. Sponsors name
+129. Sponsors name_2
+130. Date you entered the US
+131. month_3
+132. day
+133. year
+134. month_4
+135. day_2
+136. year_2
+137. undefined_45
+138. undefined_46
+139. If yes immigrant registration number
+140. If yes immigrant registration number_2
+141. Whether or not you get Medicaid the Department of Aging and Disability Services DADS can see if you can get longterm care services Services can include meals nursing care and help with dressing and bathing See Form H1204 Long Term Care Options It came with this formRow1
+142. You_2
+143. Spouse_2
+144. undefined_47
+145. undefined_48
+146. undefined_49
+147. undefined_50
+148. No Yes_6
+149. No Yes_7
+150. undefined_51
+151. undefined_52
+152. undefined_53
+153. undefined_54
+154. No Yes_8
+155. No Yes_9
+156. undefined_55
+157. If yes tell us about that person
+158. Name
+159. Address
+160. Guardian
+161. Power of Attorney
+162. Other Relationship
+163. undefined_56
+164. The person who agrees to be your authorized representative must sign here
+165. Date
+166. You the person applying for benefits
+167. undefined_57
+168. 2 Do you have an executor or court appointed administrator
+169. undefined_58
+170. If yes tell us about that person_2
+171. Name_2
+172. Address_2
+173. Is someone helping you or your spouse fill out this form
+174. undefined_59
+175. Name_3
+176. Relationship or organization
+177. undefined_60
+178. Do you want to come to our office for an interview
+179. undefined_61
+180. 1 When you come to our office will you need special help or equipment
+181. undefined_62
+182. If yes what do you need
+183. undefined_63
+184. 2 What language do you want to speak during the interview
+185. 3 Will you need an interpreter We can get one for you for free
+186. undefined_64
+187. If yes mark the one you need
+188. Vietnamese
+189. Other
+190. undefined_65
+191. Where you live Where do you live
+192. Nursing home
+193. State supported living center
+194. State hospital
+195. Group home for people with intellectual or
+196. Continuing care retirement community
+197. Your own home
+198. Rent house or apartment including an
+199. With someone else in their home
+200. House paid for by someone else
+201. Other_2
+202. Nursing home_2
+203. State supported living center_2
+204. State hospital_2
+205. Group home for people with intellectual
+206. Continuing care retirement community_2
+207. Your own home_2
+208. Rent house or apartment including an_2
+209. With someone else in their home_2
+210. House paid for by someone else_2
+211. Other_3
+212. undefined_66
+213. undefined_67
+214. Name of place
+215. Name of place_2
+216. Name of place_3
+217. Name of place_4
+218. Will you stay there for less than 6 months
+219. undefined_68
+220. No Yes_10
+221. undefined_69
+222. undefined_70
+223. Tell us about everyone living with you Do you and your spouse live together
+224. undefined_71
+225. Spouse_3
+226. Name of person living with you
+227. Name of person living with you_2
+228. Relationship to you
+229. Relationship to you_2
+230. if a relative
+231. undefined_72
+232. undefined_73
+233. if a relative_2
+234. undefined_74
+235. undefined_75
+236. Name of person living with you_3
+237. Name of person living with you_4
+238. Relationship to you_3
+239. Relationship to you_4
+240. if a relative_3
+241. undefined_76
+242. undefined_77
+243. if a relative_4
+244. undefined_78
+245. undefined_79
+246. Name of person living with you_5
+247. undefined_80
+248. Name of person living with you_6
+249. Relationship to you_5
+250. if a relative_5
+251. undefined_81
+252. undefined_82
+253. if a relative_6
+254. undefined_83
+255. undefined_84
+256. You pay
+257. Spouse pays If another person pays
+258. fill_45
+259. list their name
+260. Tax on home
+261. fill_47
+262. list their name_2
+263. Water and sewer
+264. fill_49
+265. list their name_3
+266. Electricity
+267. fill_51
+268. list their name_4
+269. fill_26
+270. fill_22
+271. Phone
+272. fill_28
+273. fill_23
+274. Home insurance
+275. fill_30
+276. fill_24
+277. Food
+278. fill_32
+279. fill_25
+280. Do you get Medicare
+281. undefined_85
+282. Medicare Do you get Medicare No YesRow1
+283. If yes mark the type you get
+284. Part A
+285. Part B
+286. Part D
+287. Part A_2
+288. Part B_2
+289. Part D_2
+290. undefined_86
+291. undefined_87
+292. undefined_88
+293. or CHIP Include health insurance you had during the past year
+294. Name of insured person first middle last
+295. Name of policy holder
+296. Insurance company
+297. Insurance company address
+298. Policy number
+299. Type of coverage
+300. Who pays the premium
+301. How often is the premium paid
+302. job you have now or used to have
+303. If yesemployers name
+304. Name of insured person first middle last_2
+305. Name of policy holder_2
+306. undefined_89
+307. undefined_90
+308. Policy number_2
+309. Type of coverage_2
+310. Who pays the premium_2
+311. How often is the premium paid_2
+312. If yesemployers name_2
+313. job you have now or used to have_2
+314. 1 Do you or your spouse get Medicaid benefits from another state
+315. undefined_91
+316. If yes which state
+317. When did you last get benefits
+318. an accident liability claim
+319. If yes list the name address and phone number of your attorney insurance
+320. 1 Do you have checking accounts
+321. undefined_92
+322. Account number
+323. Names on account
+324. Bank or company name and address
+325. Reminder
+326. Account number_2
+327. Names on account_2
+328. Bank or company name and address_2
+329. 2 Do you have savings accounts
+330. undefined_93
+331. Account number_3
+332. Names on account_3
+333. Bank or company name and address_3
+334. Account number_4
+335. Names on account_4
+336. Bank or company name and address_4
+337. money market accounts or IRAs
+338. undefined_94
+339. Account number_5
+340. Names on account_5
+341. Bank or company name and address_5
+342. Account number_6
+343. Names on account_6
+344. Bank or company name and address_6
+345. 4 Do you have savings bonds stocks or annuities
+346. undefined_95
+347. By law you must
+348. Account number_7
+349. Names on account_7
+350. Bank or company name and address_7
+351. named the remainder beneficiary
+352. undefined_96
+353. Account number_8
+354. Names on account_8
+355. Bank or company name and address_8
+356. named the remainder beneficiary_2
+357. undefined_97
+358. If yes give facts below
+359. undefined_98
+360. Name of closed investment or account
+361. Account number_9
+362. Company name and address that handled investment or account
+363. Name of closed investment or account_2
+364. Account number_10
+365. Amount you received
+366. Company name and address that handled investment or account_2
+367. 6 Do you have signature authority on someone elses account
+368. undefined_99
+369. Account owners name
+370. Account number_11
+371. Bank or company name and address_9
+372. 7 Do you have a safe deposit box
+373. undefined_100
+374. Name and address of bank or company that keeps the safe deposit box
+375. Item
+376. Item_2
+377. 8 Do you have a patient trust fund
+378. undefined_101
+379. Name and address of the place that keeps this fund for you
+380. 9 Do you have any cash on hand
+381. undefined_102
+382. If yes how much cash
+383. 10 Do you have life insurance
+384. undefined_103
+385. Insurance company name and address
+386. Policy number_3
+387. Insurance company name and address_2
+388. Policy number_4
+389. 11 Do you have a burial space or plot
+390. undefined_104
+391. Name of cemetery
+392. Number of spaces
+393. 12 Do you have a preneed burial contract
+394. undefined_105
+395. Buyer or owner of contract
+396. undefined_106
+397. undefined_107
+398. If yes are they
+399. undefined_108
+400. undefined_109
+401. What kind
+402. 15 Do you have any cars trucks boats or other vehicles
+403. undefined_110
+404. Make  Model
+405. Year
+406. Make  Model_2
+407. Year_2
+408. 16 Do you have a home including a mobile home
+409. undefined_111
+410. Address of the home
+411. Amount of land
+412. do you plan to live in it again
+413. undefined_112
+414. Dont forget give us a copy of the latest tax statement
+415. Someone lives there and they pay rent
+416. For sale
+417. undefined_113
+418. 17 Do you have a life estate or remainder interest in property No Yes
+419. undefined_114
+420. undefined_115
+421. 18 Do you own or share ownership of any other land lots or houses
+422. undefined_116
+423. Address or location
+424. Amount of land_2
+425. Current value
+426. Address or location_2
+427. Amount of land_3
+428. 19 Do you have any oil gas mineral or surface rights
+429. undefined_117
+430. Address or location_3
+431. Amount of land_4
+432. Address or location_4
+433. Amount of land_5
+434. 20 Do you have any livestock cows horses pigs etc or poultry
+435. undefined_118
+436. If yes
+437. Number
+438. livestock_2
+439. poultry_2
+440. Number_2
+441. 21 Do you have any work equipment
+442. undefined_119
+443. Type
+444. Type_2
+445. have gotten in the past
+446. undefined_120
+447. Type of money or benefits
+448. 23 Do you have any personal property fine china silver antiques etc
+449. undefined_121
+450. Item_3
+451. Item_4
+452. 24 Do you own or share ownership of anything not named in Section H
+453. undefined_122
+454. Item_5
+455. Item_6
+456. Money or property you or your spouse sold traded or gave away
+457. property or anything else in the past 5 years
+458. What did you sell trade or give away
+459. What did you get in return
+460. Who did you sell trade or give it to
+461. What did you sell trade or give away_2
+462. What did you get in return_2
+463. Who did you sell trade or give it to_2
+464. or an inheritance
+465. undefined_123
+466. 3 Did you reduce the amount of benefits you get from any source
+467. undefined_124
+468. undefined_125
+469. If yes explain
+470. Are you waiting for an answer on an application for one of
+471. undefined_126
+472. Social Security
+473. Supplemental Security Income SSI
+474. Veterans benefits
+475. Other benefits
+476. Social Security_2
+477. Supplemental Security Income SSI_2
+478. Veterans benefits_2
+479. Other benefits_2
+480. a working for someone else b training
+481. undefined_127
+482. Who got the money
+483. Hours worked
+484. Are you still working
+485. undefined_128
+486. How often are you paid
+487. Twice a month
+488. Once a month
+489. Other_4
+490. undefined_129
+491. monthyear
+492. Did you work for yourself
+493. undefined_130
+494. Who got the money_2
+495. Hours worked_2
+496. Are you still working_2
+497. undefined_131
+498. How often are you paid_2
+499. Twice a month_2
+500. Once a month_2
+501. Other_5
+502. undefined_132
+503. monthyear_2
+504. Did you work for yourself_2
+505. undefined_133
+506. Other money Give facts about other money you or your spouse get
+507. 1 Do you get Social Security
+508. undefined_134
+509. If yes what is the monthly amount
+510. If yes what is the monthly amount_2
+511. 2  Do you get Supplemental Security Income SSI
+512. undefined_135
+513. If yes what is the monthly amount_3
+514. 3 Do you get veterans benefits
+515. undefined_136
+516. If yes what is the claim number
+517. If yes what is the claim number_2
+518. If yes what is the monthly amount_4
+519. If yes tell us about the person who served
+520. undefined_137
+521. Name_4
+522. Service number
+523. Is this person related to
+524. What is their relationship to you
+525. 5 Do you get railroad retirement
+526. undefined_138
+527. If yes what is the monthly amount_5
+528. If yes what is the monthly amount_6
+529. 6 Do you get civil service retirement payments
+530. undefined_139
+531. If yes what is the claim number_3
+532. If yes what is the claim number_4
+533. If yes what is the monthly amount_7
+534. 7 Do you get any other retirement income
+535. undefined_140
+536. If yes what is the claim number_5
+537. If yes what is the claim number_6
+538. If yes what is the monthly amount_8
+539. 8 Do you have payments or annuities from private insurance
+540. undefined_141
+541. If yes what is the company name
+542. If yes what is the company name_2
+543. If yes what is the monthly amount_9
+544. If yes what is the monthly amount_10
+545. 9 Do you get interest from any of the following sources
+546. undefined_142
+547. If yes what is the amount you get
+548. If yes how often
+549. If yes how often_2
+550. 10 Do you get dividends from stocks bonds or insurance
+551. undefined_143
+552. If yes how often_3
+553. If yes how often_4
+554. 11 Does anyone pay you rent
+555. undefined_144
+556. If yes how often_5
+557. If yes how often_6
+558. oil gas mineral or surface rights
+559. undefined_145
+560. If yes write the name of the company that pays you
+561. undefined_146
+562. If yes what is the amount you get_2
+563. If yes what is the amount you get_3
+564. If yes how often_7
+565. 13 Do you get any money from farming
+566. undefined_147
+567. payments you get for loaning money to someone else
+568. undefined_148
+569. If yes what type of money do you get
+570. If yes what type of money do you get_2
+571. If yes who do you get the money from and why
+572. If yes who do you get the money from and why_2
+573. If yes what is the amount you get_4
+574. If yes what is the amount you get_5
+575. Do you have any medical bills for services from the past 3 months
+576. undefined_149
+577. Who got the services
+578. Type of Bill
+579. undefined_150
+580. Address of medical service provider
+581. If yes we need to know about the money you got income and things you were paying for
+582. Were they different from what you listed on this form
+583. Did you or your spouse pay any medical bills in the past year
+584. undefined_151
+585. Who got the services_2
+586. Type of bill
+587. Who got the services_3
+588. Type of bill_2
+589. Who got the services_4
+590. Type of bill_3
+591. Who got the services_5
+592. Type of bill_4
+593. you like to apply to register to vote here today
+594. undefined_152
+595. Already registered
+596. Agency transmitted
+597. Mailed to client
+598. Client declined
+599. Client to mail
+600. Other_11
+601. Agency staff signature
+602. Name_5
+603. Language you prefer to be contacted in
+604. By Telephone
+605. By Text message
+606. By email
+607. Telephone Number
+608. Cell phone number
+609. Email address
