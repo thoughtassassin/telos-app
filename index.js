@@ -1,14 +1,24 @@
-import fs from "fs/promises";
-import { PDFDocument } from "pdf-lib";
+const fs = require("fs/promises");
+const { PDFDocument } = require("pdf-lib");
 
-const fetchAndParsePDF = async () => {
-  const data = await fs.readFile("1200-eng2011.pdf");
+exports.handler = async (event) => {
+  const data = await fs.readFile("medicare-form.pdf");
   const pdfDoc = await PDFDocument.load(data);
   const form = pdfDoc.getForm();
   const fields = form.getFields();
-  fields.forEach((field, index) =>
-    console.log(`${index + 1}. ${field.getName()}`)
+  const fieldsList = fields.map(
+    (field, index) => `${index + 1}. ${field.getName()}`
   );
-};
 
-fetchAndParsePDF();
+  form.getTextField("firstname").setText("Clark");
+  form.getTextField("lastname").setText("Kent");
+  form.getTextField("spouseFirstname").setText("Lois");
+  form.getTextField("spouseLastname").setText("Lane");
+
+  fs.writeFile("saved-medicare-form.pdf", await pdfDoc.save());
+
+  return {
+    statusCode: 200,
+    body: fieldsList,
+  };
+};
