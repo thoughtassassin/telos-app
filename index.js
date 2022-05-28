@@ -13,24 +13,36 @@ exports.handler = async (event) => {
   form.getTextField("spouseFirstname").setText("Black");
   form.getTextField("spouseLastname").setText("Canary");
 
+  console.log('setting up S3...');
+
   AWS.config.update({ region: "us-east-1" });
   s3 = new AWS.S3({ apiVersion: "2006-03-01" });
   const uploadParams = {
     Bucket: "medicareforms3",
-    Key: path.basename("new-saved-medicare.pdf"),
+    Key: path.basename("server-medicare.pdf"),
     Body: await pdfDoc.save(),
   };
-  s3.upload(uploadParams, function (err, data) {
-    if (err) {
-      console.log("Error", err);
-    }
-    if (data) {
-      console.log("Upload Success", data.Location);
-    }
-  });
-  
-  return {
-    statusCode: 200,
-    body: JSON.stringify({ response: 'File uploaded' }),
-  };
+
+  console.log("sending file to S3...");
+
+  try {
+    const response = await s3.upload(uploadParams).promise();
+
+    console.log("success..", response.Location);
+
+    return {
+      statusCode: 200,
+      body: JSON.stringify({
+        response: "File uploaded..." + response.Location,
+      }),
+    };
+  } catch (e) {
+
+    console.error(e);
+
+    return {
+      statusCode: 200,
+      body: JSON.stringify({ error: e }),
+    };
+  }
 };
