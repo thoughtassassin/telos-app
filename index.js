@@ -1,36 +1,45 @@
-const fs = require("fs/promises");
-const { PDFDocument } = require("pdf-lib");
-const AWS = require('aws-sdk');
-const path = require("path");
+var AWS = require("aws-sdk");
 
-exports.handler = async (event) => {
-  const data = await fs.readFile("medicare-form.pdf");
-  const pdfDoc = await PDFDocument.load(data);
-  const form = pdfDoc.getForm();
+exports.handler = async (event, context, call) => {
+  let S3 = new AWS.S3({ region: process.env.AWS_REGION });
 
-  form.getTextField("firstname").setText("Green");
-  form.getTextField("lastname").setText("Arrow");
-  form.getTextField("spouseFirstname").setText("Black");
-  form.getTextField("spouseLastname").setText("Canary");
+  var payload = {
+    id: event.id,
+    email: event.email,
+    path: event.path,
+  };
 
-  AWS.config.update({ region: "us-east-1" });
-  s3 = new AWS.S3({ apiVersion: "2006-03-01" });
-  const uploadParams = {
+  var params = {
     Bucket: "medicareforms3",
-    Key: path.basename("new-saved-medicare.pdf"),
-    Body: await pdfDoc.save(),
+    Key: event.id + ".txt",
+    Body: JSON.stringify(payload),
+    ContentType: "text/plain",
   };
-  s3.upload(uploadParams, function (err, data) {
-    if (err) {
-      console.log("Error", err);
-    }
-    if (data) {
-      console.log("Upload Success", data.Location);
-    }
-  });
-  
-  return {
-    statusCode: 200,
-    body: JSON.stringify({ response: 'File uploaded' }),
-  };
+
+  try {
+    let s3Response = await S3.upload(params).promise();
+
+    let res = {
+      statusCode: 200,
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        id: event.id,
+        email: event.email,
+        path: event.path,
+        s3Path: s3Response.Location,
+      }),
+    };
+
+    return res;
+  } catch (error) {
+    let fail = {
+      statusCode: 200,
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        error: error,
+      }),
+    };
+
+    return fail;
+  }
 };
