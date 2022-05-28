@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.1140.0",
     "pdf-lib": "^1.17.1"
-  },
-  "type": "module"
+  }
 }
