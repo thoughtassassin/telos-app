@@ -1,9 +1,9 @@
 # Telos Tech App
 
-This application reads a Texas Human Health Services Medicare application pdf and lists the active fields. To run the app:
+This application reads a Texas Human Health Services Medicare application pdf modifies a few fields and saves the file to an S3 bucket. To run the app:
 
 - `npm i`
-- `node index.js`
+- `node testHandler.js`
 
 ## Bundling and uploading to S3
 
